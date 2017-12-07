@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: A blog about Guangyu(David) Xu
+description: A blog about Guangyu(David) Xu
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Guangyu Xu
+user_description: Five years of experience leading mobile and online game development teams through full game development life cycle. Includes designing systems to front-end development, UE/UX design, and 3D animation. I have great exposure to web technologies by creating 3 websites using HTML5, CSS3 and Javascript Frameworks and databases. I am strong with include Angular, React/Redux, Node.js/Express, MongoDB and MySQL. I am looking for an opportunity where I can utilize my skillset to change people’s lives.
+user_title: Software Engineer
+email: davidxu198556@gmail.com
+twitter_username: DavydXu
+github_username:  DavidXu2017
+gplus_username:  108409518289828881537
 
 # Google-analytics
 google-analytics:
